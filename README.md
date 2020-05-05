@@ -1,3 +1,2 @@
 # hello-world
-just  another repository
-i'm interested in programming
+wanna create something awesome!
